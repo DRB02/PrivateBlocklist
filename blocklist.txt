@@ -1,0 +1,18 @@
+! Title: Dylan his extending block list
+! Description: DON'T USE THIS. THIS BREAKS SITES.
+! I use this blocklist to test things. But also block things which break sites or I am not sure what they do.
+
+!=-=-=-=-=uBlock=-=-=-=-=
+||api.270degrees.nl/*/log?apiKey=
+||ditisdesupercooleappapi.at5.nl/api/event/readarticle
+!furni app
+||*/PSC.Blazor.Components.BrowserDetect/js/browserDetect.js
+||*/BlazorCurrentDevice/current-device.min.js
+
+!=-=-=-=-=DNS=-=-=-=-=
+||statistiek.rijksoverheid.nl^
+!NPO
+||analytics-ingress-global.bitmovin.com^
+||topspin.npo.nl^
+!Facebook breaks stuff https://github.com/AdguardTeam/AdguardForAndroid/issues/2540
+||graph.facebook.com^
