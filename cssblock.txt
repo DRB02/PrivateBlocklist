@@ -1,0 +1,5 @@
+! Title: Dylan his extending CSS block list
+! Description: I use this blocklist to test things. But also block things which break sites or I am not sure what they do.
+
+puhekupla.com##.ant-col-xxl-17.ant-col-xl-22.ant-col-lg-22.ant-col-sm-24.ant-col-xs-24.ant-col > .page > .ant-col-xs-24.ant-col > .box > .unblock-plz.alert.content
+puhekupla.com##.page > .page > .ant-col-xs-24.ant-col > .box > .unblock-plz.alert.content
