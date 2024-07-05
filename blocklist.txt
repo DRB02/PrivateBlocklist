@@ -6,7 +6,6 @@
 ||api.270degrees.nl/*/log?apiKey=
 ||ditisdesupercooleappapi.at5.nl/api/event/readarticle
 !furni app
-||*/PSC.Blazor.Components.BrowserDetect/js/browserDetect.js
 ||*/BlazorCurrentDevice/current-device.min.js
 
 !=-=-=-=-=DNS=-=-=-=-=
