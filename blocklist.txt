@@ -5,7 +5,6 @@
 !=-=-=-=-=uBlock=-=-=-=-=
 ||api.270degrees.nl/*/log?apiKey=
 ||ditisdesupercooleappapi.at5.nl/api/event/readarticle
-!furni app
 ||*/BlazorCurrentDevice/current-device.min.js
 
 !=-=-=-=-=DNS=-=-=-=-=
@@ -15,3 +14,4 @@
 ||topspin.npo.nl^
 !Facebook breaks stuff https://github.com/AdguardTeam/AdguardForAndroid/issues/2540
 ||graph.facebook.com^
+||analytics.launch.bz^
