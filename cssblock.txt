@@ -16,3 +16,4 @@
 ##.CookieBar___tSZrm
 ###focus-lock-id
 ##.dy-modal-container.dy-act-overlay
+###cmp-cookie
