@@ -7,3 +7,8 @@
 ##.cookiefirst-root.notranslate
 ###onetrust-consent-sdk
 ##.wsa-cookielaw
+###bb-age-check
+##.leeftijdcheck_overlay
+###cookie-overlay
+##.popup-box.-cookies
+###gdpr-modal-bottom
