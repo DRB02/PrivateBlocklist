@@ -13,3 +13,6 @@
 ###cookie-overlay
 ##.popup-box.-cookies
 ###gdpr-modal-bottom
+##.CookieBar___tSZrm
+###focus-lock-id
+##.dy-modal-container.dy-act-overlay
