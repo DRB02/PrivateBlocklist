@@ -1,8 +1,9 @@
 ! Title: Dylan his extending CSS block list
 ! Description: My experience with cookie blockers is that they break sites often. This is my own cookie blocker and also experimenting with css stuff.
 
-puhekupla.com##.CookieConsent
+##.CookieConsent
 ##.unblock-plz
 ###cmpwrapper
-www.knivesandtools.nl##.cookiefirst-root.notranslate
+##.cookiefirst-root.notranslate
 ###onetrust-consent-sdk
+##.wsa-cookielaw
