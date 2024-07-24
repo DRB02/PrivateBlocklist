@@ -1,12 +1,13 @@
 ! Title: Dylan his extending CSS block list
 ! Description: My experience with cookie blockers is that they break sites often. This is my own cookie blocker and also experimenting with css stuff.
 
+###onetrust-consent-sdk
+
 ##.CookieConsent
 ###cookie-consent
 ##.unblock-plz
 ###cmpwrapper
 ##.cookiefirst-root.notranslate
-###onetrust-consent-sdk
 ##.wsa-cookielaw
 ###bb-age-check
 ##.leeftijdcheck_overlay
@@ -17,3 +18,8 @@
 ###focus-lock-id
 ##.dy-modal-container.dy-act-overlay
 ##.cmp-cookie
+###gdpr
+##.cc-window
+
+! Site specific
+alpina-brands.com###banner-wrapper
