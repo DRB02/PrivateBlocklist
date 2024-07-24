@@ -15,3 +15,4 @@
 !Facebook breaks stuff https://github.com/AdguardTeam/AdguardForAndroid/issues/2540
 ||graph.facebook.com^
 ||analytics.launch.bz^
+||quotecrisis.com^
