@@ -20,6 +20,12 @@
 ##.cmp-cookie
 ###gdpr
 ##.cc-window
+###cookie-law-info-bar
+##.cky-overlay
+##.cky-consent-container
+##.cookie-container
+###cookie_banner_overlay
+###cookie_banner
 
 ! Site specific
 alpina-brands.com###banner-wrapper
