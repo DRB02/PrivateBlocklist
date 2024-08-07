@@ -25,6 +25,9 @@
 ##.cookie-container
 ###cookie_banner_overlay
 ###cookie_banner
+##ccm-notification
+###twcc__mechanism
+###catapult-cookie-bar
 
 ! Site specific
 alpina-brands.com###banner-wrapper
