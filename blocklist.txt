@@ -6,6 +6,7 @@
 ||api.270degrees.nl/*/log?apiKey=
 ||ditisdesupercooleappapi.at5.nl/api/event/readarticle
 ||*/BlazorCurrentDevice/current-device.min.js
+||api.immutable.com/v1/sdk/metrics
 
 !=-=-=-=-=DNS=-=-=-=-=
 ||statistiek.rijksoverheid.nl^
