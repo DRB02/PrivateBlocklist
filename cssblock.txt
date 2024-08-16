@@ -30,8 +30,11 @@
 ###catapult-cookie-bar
 ##.miniConsent.rejectAllCookies
 ##.modal.modal--cookie-dialog.cookie-dialog
+###ez-cmpv2-container
 
 ! Site specific
 alpina-brands.com###banner-wrapper
 www.footballkitarchive.com##.pr2y6lpyvcjk
+www.reddit.com##.pointer-events-auto.border-tone-4.border-solid.border.shadow-md.duration-300.transition-opacity.pt-0.p-md.opacity-100.mx-0.my-md.rounded-sm.bg-ui-modalbackground.relative.block.z-\[2\].nd\:pb-2xl.nd\:visible
+
 !needs to be site specific ###cookie-law-info-bar
