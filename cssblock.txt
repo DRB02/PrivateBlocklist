@@ -3,6 +3,11 @@
 ! After some time I decided to make the list so site specific as possible so you don't get any thing to break on other pages.
 ! I keep only a few queries for every site.
 
+!Quality of life
+ajax.nl###image-1
+
+
+!General
 ###onetrust-consent-sdk
 ##.CookieConsent
 ###cookie-consent
@@ -10,28 +15,29 @@
 ##.cookie-container
 ###cookie_banner_overlay
 ###cookie_banner
-
-##.unblock-plz
-###cmpwrapper
-##.cookiefirst-root.notranslate
-##.wsa-cookielaw
 ###bb-age-check
 ##.leeftijdcheck_overlay
-###cookie-overlay
-##.popup-box.-cookies
-###gdpr-modal-bottom
-##.CookieBar___tSZrm
-###focus-lock-id
-##.dy-modal-container.dy-act-overlay
-##.cmp-cookie
-##.cc-window
-##.cky-overlay
-##.cky-consent-container
-##ccm-notification
-###twcc__mechanism
-###catapult-cookie-bar
-##.miniConsent.rejectAllCookies
-###ez-cmpv2-container
+
+
+!##.unblock-plz
+!###cmpwrapper
+!##.cookiefirst-root.notranslate
+!##.wsa-cookielaw
+!###cookie-overlay
+!##.popup-box.-cookies
+!###gdpr-modal-bottom
+!##.CookieBar___tSZrm
+!###focus-lock-id
+!##.dy-modal-container.dy-act-overlay
+!##.cmp-cookie
+!##.cc-window
+!##.cky-overlay
+!##.cky-consent-container
+!##ccm-notification
+!###twcc__mechanism
+!###catapult-cookie-bar
+!##.miniConsent.rejectAllCookies
+!###ez-cmpv2-container
 
 
 
@@ -49,3 +55,6 @@ ups.com##.implicit_privacy_prompt.implicit_consent
 chainabuse.com##.create-CookieConsentBanner
 nomos-glashuette.com##.modal.modal--cookie-dialog.cookie-dialog
 sizeofficial.nl##.miniConsent.rejectAllCookies
+shop.action.com###cookie-modal
+twitch.tv##.consent-banner.kclbMN.Layout-sc-1xcs6mc-0
+
