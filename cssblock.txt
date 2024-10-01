@@ -9,6 +9,8 @@ ajax.nl###image-1
 
 !General
 ###onetrust-consent-sdk
+!breaks RTL Live blogs
+
 ##.CookieConsent
 ###cookie-consent
 ###gdpr
@@ -17,28 +19,6 @@ ajax.nl###image-1
 ###cookie_banner
 ###bb-age-check
 ##.leeftijdcheck_overlay
-
-
-!##.unblock-plz
-!###cmpwrapper
-!##.cookiefirst-root.notranslate
-!##.wsa-cookielaw
-!###cookie-overlay
-!##.popup-box.-cookies
-!###gdpr-modal-bottom
-!##.CookieBar___tSZrm
-!###focus-lock-id
-!##.dy-modal-container.dy-act-overlay
-!##.cmp-cookie
-!##.cc-window
-!##.cky-overlay
-!##.cky-consent-container
-!##ccm-notification
-!###twcc__mechanism
-!###catapult-cookie-bar
-!##.miniConsent.rejectAllCookies
-!###ez-cmpv2-container
-
 
 
 ! Site specific
@@ -57,4 +37,5 @@ nomos-glashuette.com##.modal.modal--cookie-dialog.cookie-dialog
 sizeofficial.nl##.miniConsent.rejectAllCookies
 shop.action.com###cookie-modal
 twitch.tv##.consent-banner.kclbMN.Layout-sc-1xcs6mc-0
+nos.nl###ccm_notification_host
 
