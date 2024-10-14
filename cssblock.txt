@@ -5,7 +5,7 @@
 
 !Quality of life
 ajax.nl###image-1
-
+qwant.com##._2loWJ._3HNME
 
 !General
 ###onetrust-consent-sdk
@@ -41,3 +41,15 @@ nos.nl###ccm_notification_host
 vi.nl##.cmpwrapper
 buienradar.nl##.payok__wrap
 buienradar.nl##body:style(overflow: auto !important;)    
+fcupdate.nl##.cmpwrapper
+ajaxfanatics.nl##.cmpwrapper
+ajaxfanatics.nl##body:style(overflow: auto !important;)
+coolblue.nl##.modal-box--medium.modal-box
+ubereats.com##.b0.j8.j7.j6.j5.ar
+thuisbezorgd.nl##.privacy-settings-style_privacy-settings___m9xW
+voetbalprimeur.nl##.cmpwrapper
+voetbalprimeur.nl##body:style(overflow: auto !important;)
+degiro.nl###CybotCookiebotDialogBodyUnderlay
+degiro.nl###CybotCookiebotDialog
+degiro.nl##body:style(overflow: auto !important;)
+omegawatches.com###notice-cookie-block
