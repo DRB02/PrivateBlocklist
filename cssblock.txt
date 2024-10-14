@@ -38,4 +38,6 @@ sizeofficial.nl##.miniConsent.rejectAllCookies
 shop.action.com###cookie-modal
 twitch.tv##.consent-banner.kclbMN.Layout-sc-1xcs6mc-0
 nos.nl###ccm_notification_host
-
+vi.nl##.cmpwrapper
+buienradar.nl##.payok__wrap
+buienradar.nl##body:style(overflow: auto !important;)    
