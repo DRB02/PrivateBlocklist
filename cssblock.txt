@@ -53,3 +53,7 @@ degiro.nl###CybotCookiebotDialogBodyUnderlay
 degiro.nl###CybotCookiebotDialog
 degiro.nl##body:style(overflow: auto !important;)
 omegawatches.com###notice-cookie-block
+shogun.nl##.z-\[100\].items-center.justify-center.flex.inset-0.fixed.bg-black\/25
+gall.nl###cookie-overlay
+gall.nl##html:style(overflow: auto !important;)
+gall.nl##body:style(overflow: auto !important;)
