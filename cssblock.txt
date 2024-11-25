@@ -19,7 +19,9 @@ qwant.com##._2loWJ._3HNME
 ###cookie_banner
 ###bb-age-check
 ##.leeftijdcheck_overlay
-
+###agegate
+###ageGate
+##.age-gate
 
 ! Site specific
 !breaks wnl video's
