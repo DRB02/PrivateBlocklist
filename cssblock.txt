@@ -22,6 +22,9 @@ qwant.com##._2loWJ._3HNME
 
 
 ! Site specific
+wnl.tv###ccm_notification_wrapper
+!breaks wnl video's
+
 alpina-brands.com###banner-wrapper
 footballkitarchive.com##.pr2y6lpyvcjk
 reddit.com##.pointer-events-auto.border-tone-4.border-solid.border.shadow-md.duration-300.transition-opacity.pt-0.p-md.opacity-100.mx-0.my-md.rounded-sm.bg-ui-modalbackground.relative.block.z-\[2\].nd\:pb-2xl.nd\:visible
@@ -57,3 +60,18 @@ shogun.nl##.z-\[100\].items-center.justify-center.flex.inset-0.fixed.bg-black\/2
 gall.nl###cookie-overlay
 gall.nl##html:style(overflow: auto !important;)
 gall.nl##body:style(overflow: auto !important;)
+nt2taalmenu.nl###cmplz-cookiebanner-container
+eeuwigejeugd.nl##.duration-300.transition-all.z-50.lg\:px-10.px-4.justify-center.items-start.flex.backdrop-blur-\[13px\].bg-black\/80.inset-0.fixed
+top40.nl##.notranslate.cookiefirst-root
+sligro.nl##.cmp-cookie.cmp-modal
+onsoranje.nl##.cmpwrapper
+onsoranje.nl##body:style(overflow: auto !important;)
+consumentenbond.nl##.md\:p-8.md\:rounded-md.md\:space-y-4.md\:left-10.md\:bottom-10.shadow.pb-0.py-8.px-4.bg-white.rounded-t-md.w-full.left-0.bottom-0.fixed.content.root
+rog.asus.com###cookie-policy-info
+www.geenstijl.nl##.cmpwrapper
+geenstijl.nl##body:style(overflow: auto !important;)
+hertogjan.nl##.agegate-front.agegate
+hertogjan.nl##.agegate-back.agegate
+ticketswap.com##ticketswap-portal
+
+
