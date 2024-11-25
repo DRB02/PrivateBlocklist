@@ -8,8 +8,8 @@ ajax.nl###image-1
 qwant.com##._2loWJ._3HNME
 
 !General
-###onetrust-consent-sdk
 !breaks RTL Live blogs
+###onetrust-consent-sdk
 
 ##.CookieConsent
 ###cookie-consent
@@ -22,8 +22,8 @@ qwant.com##._2loWJ._3HNME
 
 
 ! Site specific
-wnl.tv###ccm_notification_wrapper
 !breaks wnl video's
+wnl.tv###ccm_notification_wrapper
 
 alpina-brands.com###banner-wrapper
 footballkitarchive.com##.pr2y6lpyvcjk
