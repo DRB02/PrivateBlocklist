@@ -75,5 +75,9 @@ geenstijl.nl##body:style(overflow: auto !important;)
 hertogjan.nl##.agegate-front.agegate
 hertogjan.nl##.agegate-back.agegate
 ticketswap.com##ticketswap-portal
-
+eristoff.com###agegate
+www.beefeatergin.com###pr_age_gate:remove()
+captainmorgan.com##.age_gate
+gordonsgin.com##.age_gate
+jackdaniels.com##.age-gate
 
