@@ -8,9 +8,14 @@
 ||*/BlazorCurrentDevice/current-device.min.js
 ||api.immutable.com/v1/sdk/metrics
 
+!Annoyances:
+||cdn.cookielaw.org/scripttemplates/otSDKStub.js
+||age-gate-prod.prod.bacardi.digital/static/agegate.js
+||diageoagegate.com/media/js/agegate.min.js
+||age-gate-static.pernod-ricard.io/script_19.js
+
 !=-=-=-=-=DNS=-=-=-=-=
 ||statistiek.rijksoverheid.nl^
-!NPO
 ||analytics-ingress-global.bitmovin.com^
 ||topspin.npo.nl^
 !Facebook breaks stuff https://github.com/AdguardTeam/AdguardForAndroid/issues/2540
