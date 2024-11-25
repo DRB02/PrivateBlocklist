@@ -13,6 +13,13 @@
 ||age-gate-prod.prod.bacardi.digital/static/agegate.js
 ||diageoagegate.com/media/js/agegate.min.js
 ||age-gate-static.pernod-ricard.io^
+||jackdaniels.com/modules/custom/jdagegate/css/agegate.css^
+||oldcaptainrum.com/wp-content/plugins/dispensary-age-verification/public/js/dispensary-age-verification-public.js
+||thefamousgrouse.com/modules/custom/ed_agegate/js/ed_globalagegate.js
+||havana-club.com/wp-content/uploads/agegate/agegate_script.js
+||jamesonwhiskey.com/wp-content/uploads/agegate/agegate_script.js
+||*/wp-content/plugins/age-gate/public/*
+||*/agegate_script.js
 
 !=-=-=-=-=DNS=-=-=-=-=
 ||statistiek.rijksoverheid.nl^
