@@ -12,7 +12,7 @@
 ||cdn.cookielaw.org/scripttemplates/otSDKStub.js
 ||age-gate-prod.prod.bacardi.digital/static/agegate.js
 ||diageoagegate.com/media/js/agegate.min.js
-||age-gate-static.pernod-ricard.io/script_19.js
+||age-gate-static.pernod-ricard.io^
 
 !=-=-=-=-=DNS=-=-=-=-=
 ||statistiek.rijksoverheid.nl^
