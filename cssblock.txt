@@ -21,6 +21,7 @@ qwant.com##._2loWJ._3HNME
 ##.leeftijdcheck_overlay
 ###agegate
 ###ageGate
+###cmpbox
 
 ! Site specific
 !breaks wnl video's
@@ -69,14 +70,27 @@ onsoranje.nl##.cmpwrapper
 onsoranje.nl##body:style(overflow: auto !important;)
 consumentenbond.nl##.md\:p-8.md\:rounded-md.md\:space-y-4.md\:left-10.md\:bottom-10.shadow.pb-0.py-8.px-4.bg-white.rounded-t-md.w-full.left-0.bottom-0.fixed.content.root
 rog.asus.com###cookie-policy-info
-www.geenstijl.nl##.cmpwrapper
+geenstijl.nl##.cmpwrapper
 geenstijl.nl##body:style(overflow: auto !important;)
 hertogjan.nl##.agegate-front.agegate
 hertogjan.nl##.agegate-back.agegate
 ticketswap.com##ticketswap-portal
 eristoff.com###agegate
-www.beefeatergin.com###pr_age_gate:remove()
+beefeatergin.com###pr_age_gate:remove()
 captainmorgan.com##.age_gate
 gordonsgin.com##.age_gate
 jackdaniels.com##.age-gate
-
+debijenkorf.nl##.CookieBar___tSZrm
+bstn.com##.notranslate.cookiefirst-root
+endclothing.com##.lgrKjz.styles__CookieBannerSC-sc-372s6t-0
+snipes.com##.cmpwrapper
+snipes.com##body:style(overflow: auto !important;)
+liarsbar.net###ez-cmpv2-container
+airmiles.nl##.ng-star-inserted.ng-tns-c2360974958-2
+keukenkampioendivisie.nl###cmpbox
+fakenamegenerator.com##.notranslate.stpd_cmp_wrapper
+fletcherhotelamsterdam.nl###app
+slashdot.org##body:style(overflow: auto !important;)
+slashdot.org###cmpbox2
+sourceforge.net##body:style(overflow: auto !important;)
+sourceforge.net###cmpbox2
