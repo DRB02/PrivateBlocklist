@@ -8,8 +8,8 @@ ajax.nl###image-1
 qwant.com##._2loWJ._3HNME
 
 !General
-!breaks RTL Live blogs
 ###onetrust-consent-sdk
+rtl.nl#@##onetrust-consent-sdk
 
 ##.CookieConsent
 ###cookie-consent
@@ -57,7 +57,6 @@ voetbalprimeur.nl##body:style(overflow: auto !important;)
 degiro.nl###CybotCookiebotDialogBodyUnderlay
 degiro.nl###CybotCookiebotDialog
 degiro.nl##body:style(overflow: auto !important;)
-omegawatches.com###notice-cookie-block
 shogun.nl##.z-\[100\].items-center.justify-center.flex.inset-0.fixed.bg-black\/25
 gall.nl###cookie-overlay
 gall.nl##html:style(overflow: auto !important;)
@@ -94,3 +93,4 @@ slashdot.org##body:style(overflow: auto !important;)
 slashdot.org###cmpbox2
 sourceforge.net##body:style(overflow: auto !important;)
 sourceforge.net###cmpbox2
+eventbrite.com###transcend-consent-manager
