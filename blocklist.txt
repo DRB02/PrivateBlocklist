@@ -35,3 +35,4 @@
 ||graph.facebook.com^
 ||analytics.launch.bz^
 ||quotecrisis.com^
+||consentmanager.net^
