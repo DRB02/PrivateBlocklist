@@ -24,9 +24,6 @@ rtl.nl#@##onetrust-consent-sdk
 ###cmpbox
 
 ! Site specific
-!breaks wnl video's
-wnl.tv###ccm_notification_wrapper
-
 alpina-brands.com###banner-wrapper
 footballkitarchive.com##.pr2y6lpyvcjk
 reddit.com##.pointer-events-auto.border-tone-4.border-solid.border.shadow-md.duration-300.transition-opacity.pt-0.p-md.opacity-100.mx-0.my-md.rounded-sm.bg-ui-modalbackground.relative.block.z-\[2\].nd\:pb-2xl.nd\:visible
@@ -80,6 +77,7 @@ captainmorgan.com##.age_gate
 gordonsgin.com##.age_gate
 jackdaniels.com##.age-gate
 debijenkorf.nl##.CookieBar___tSZrm
+debijenkorf.nl##.CookieBar-module_CookieBar
 bstn.com##.notranslate.cookiefirst-root
 endclothing.com##.lgrKjz.styles__CookieBannerSC-sc-372s6t-0
 snipes.com##.cmpwrapper
