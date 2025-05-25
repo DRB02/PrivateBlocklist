@@ -26,6 +26,15 @@
 ||nike.com/fragments/inline-cookie^
 ||cdn.cookielaw.org^$domain=www.coca-cola.com
 ||sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/pns/tiktok-cookie-banner/1.0.0.247/default.eu-ttp.esm.js
+||*/cdn/shopifycloud/media-analytics/v0.1/analytics.js
+||*.pepper.com/assets/js/CookiesMessage_30d484.js^
+||*/age-gate.js^
+||*/umageverification-dob.js
+
+!Fixes idk:
+@@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$script,domain=rtl.nl
+rtl.nl#@##onetrust-consent-sdk
+@@||d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com/stf.js
 
 !=-=-=-=-=DNS=-=-=-=-=
 ||statistiek.rijksoverheid.nl^
@@ -36,3 +45,5 @@
 ||analytics.launch.bz^
 ||quotecrisis.com^
 ||consentmanager.net^
+||cookies.eo.nl^
+||ccm.npo.nl^
