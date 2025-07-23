@@ -23,13 +23,15 @@
 ||gatekeeperconsent.com^
 ||web.cmp.usercentrics.eu/ui/v/3.29.0/UcGdprCmpView.3d8ab5e5.js
 ||*/cdn/shop/t/17/assets/section-age-verification-popup.js
-||nike.com/fragments/inline-cookie^
 ||cdn.cookielaw.org^$domain=www.coca-cola.com
 ||sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/pns/tiktok-cookie-banner/1.0.0.247/default.eu-ttp.esm.js
 ||*/cdn/shopifycloud/media-analytics/v0.1/analytics.js
 ||*.pepper.com/assets/js/CookiesMessage_30d484.js^
 ||*/age-gate.js^
 ||*/umageverification-dob.js
+||consent.cookiebot.com/*/cc.js
+||*/ageVerification.js
+*/js/agecheckerplus_mG35tH2eGxRu7PQW.js
 
 !Fixes idk:
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$script,domain=rtl.nl
