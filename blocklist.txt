@@ -3,7 +3,6 @@
 ! I use this blocklist to test things. But also block things which break sites or I am not sure what they do.
 
 !=-=-=-=-=uBlock=-=-=-=-=
-||api.270degrees.nl/*/log?apiKey=
 ||ditisdesupercooleappapi.at5.nl/api/event/readarticle
 ||*/BlazorCurrentDevice/current-device.min.js
 ||api.immutable.com/v1/sdk/metrics
